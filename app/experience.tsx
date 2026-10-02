@@ -20,7 +20,7 @@ const experiences: ExperienceItem[] = [
     date: "2026 - present",
     description:
       "Enjoying to explore how applications work, identifying security weaknesses, and responsibly report vulnerabilities to help organizations improve their digital assets. Through bug bounty programs and independent research.",
-    skills: ["Parrot OS", "BurpSuite", "Python"],
+    skills: ["Parrot OS","Linux", "BurpSuite", "Python"],
   },
 ];
 

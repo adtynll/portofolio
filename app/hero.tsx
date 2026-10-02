@@ -10,7 +10,7 @@ export default function Hero() {
   const [deleting, setDeleting] = useState(false);
 
   const texts = useMemo(
-    () => ["Cyber Security Researcher", "Bug Hunter", "Ethical Hacker"],
+    () => ["Bug Hunter", "Ethical Hacker", "Cyber Security Researcher"],
     [],
   );
 
@@ -213,7 +213,7 @@ const socialMediaList = [
 
 const quickStatsList = [
   {
-    message: "Years of Experience",
+    message: "3 Months of Experience",
     icon: (
       <svg
         className="w-5 md:w-6 text-text-background"
