@@ -136,7 +136,7 @@ export default function Hero() {
 
             <div className="relative z-10 p-2 bg-background border border-text-secondary/10 rounded-full shadow-2xl">
               <Image
-                src="/images/profile.jpg"
+                src="/images/profile2.jpg"
                 alt="Adtynl"
                 width={400}
                 height={400}
