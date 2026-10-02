@@ -77,8 +77,8 @@ export default function Hero() {
 
             <div className="max-w-xl mt-4">
               <p className="text-text-secondary text-base md:text-lg leading-relaxed font-medium">
-                16-Year-Old Cybersecurity Researcher | Bug Hunter | Student at
-                SMAN 1 Payakumbuh.
+                Cybersecurity Researcher | Bug Hunter | Student at SMAN 1
+                Payakumbuh.
               </p>
             </div>
 
