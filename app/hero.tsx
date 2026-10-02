@@ -84,7 +84,7 @@ export default function Hero() {
 
             <div className="flex flex-col sm:flex-row gap-4 mt-8">
               <button
-                onClick={() => handleScroll("certificate")}
+                onClick={() => handleScroll("experience")}
                 className="cursor-pointer text-sm md:text-base font-bold bg-text-primary text-background px-8 py-4 rounded-xl flex flex-row items-center justify-center gap-3 hover:-translate-y-1.5 hover:scale-[1.02] hover:shadow-[0_8px_30px_rgb(0,0,0,0.12)] dark:hover:shadow-[0_8px_30px_rgba(255,255,255,0.1)] transition-all duration-300 ease-out"
               >
                 Explore Work
