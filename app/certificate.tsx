@@ -190,13 +190,13 @@ const certificateList: CardItem[] = [
     index: 1,
     imagePath: "/images/course.jpg",
     title: "Course",
-    liveDemoUrl: "#",
+    liveDemoUrl: "/images/course.jpg",
   },
   {
     index: 2,
-    imagePath: "/images/unj.jpg",
+    imagePath: "/images/bandung.jpg",
     title: "Certificate Of Appreciation",
-    liveDemoUrl: "#",
+    liveDemoUrl: "/images/bandung.jpg",
   },
 ];
 
