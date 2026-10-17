@@ -166,7 +166,7 @@ export default function Certificate() {
         label="Portfolio"
         title="Certificate"
         list={certificateList}
-        moreUrl="https://www.linkedin.com/in/adtynl"
+        moreUrl="https://drive.google.com/drive/folders/1dLHYxniJgacdusF2hrS6yCR9GW1jvKCF?usp=drive_link"
       />
       <CardSection
         label="Portfolio"
@@ -188,9 +188,9 @@ const certificateList: CardItem[] = [
   },
   {
     index: 1,
-    imagePath: "/images/course.jpg",
-    title: "Course",
-    liveDemoUrl: "/images/course.jpg",
+    imagePath: "/images/ccep.jpg",
+    title: "Certified CyberSecurity Educator Professional",
+    liveDemoUrl: "/images/ccep.jpg",
   },
   {
     index: 2,
