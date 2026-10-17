@@ -188,9 +188,9 @@ const certificateList: CardItem[] = [
   },
   {
     index: 1,
-    imagePath: "/images/ccep.jpg",
+    imagePath: "/images/cceep.jpg",
     title: "Certified CyberSecurity Educator Professional",
-    liveDemoUrl: "/images/ccep.jpg",
+    liveDemoUrl: "/images/cceep.jpg",
   },
   {
     index: 2,
