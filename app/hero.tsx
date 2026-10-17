@@ -257,7 +257,7 @@ const quickStatsList = [
     ),
   },
   {
-    message: "Cyber Security Researcher",
+    message: "Cybersecurity Researcher",
     icon: (
       <svg
         className="w-5 md:w-6 text-text-background"
