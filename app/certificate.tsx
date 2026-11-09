@@ -164,7 +164,7 @@ export default function Certificate() {
       <CardSection
         id="certificate"
         label="Portfolio"
-        title="Certificate"
+        title="Achievements"
         list={certificateList}
         moreUrl="https://drive.google.com/drive/folders/1dLHYxniJgacdusF2hrS6yCR9GW1jvKCF?usp=drive_link"
       />
@@ -188,15 +188,15 @@ const certificateList: CardItem[] = [
   },
   {
     index: 1,
-    imagePath: "/images/cceep.jpg",
-    title: "Certified CyberSecurity Educator Professional",
-    liveDemoUrl: "/images/cceep.jpg",
+    imagePath: "/images/cadiak.jpg",
+    title: "1st Place CADIAK CTF 2026",
+    liveDemoUrl: "/images/cadiak.jpg",
   },
   {
     index: 2,
-    imagePath: "/images/bandung.jpg",
-    title: "Certificate Of Appreciation",
-    liveDemoUrl: "/images/bandung.jpg",
+    imagePath: "/images/nasa.jpg",
+    title: "NASA Hall Of Fame",
+    liveDemoUrl: "/images/nasa.jpg",
   },
 ];
 

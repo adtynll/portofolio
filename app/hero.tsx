@@ -213,7 +213,7 @@ const socialMediaList = [
 
 const quickStatsList = [
   {
-    message: "4 Months of Experience",
+    message: "5 Months of Experience",
     icon: (
       <svg
         className="w-5 md:w-6 text-text-background"
