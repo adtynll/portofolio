@@ -188,9 +188,9 @@ const certificateList: CardItem[] = [
   },
   {
     index: 1,
-    imagePath: "/images/cadiak.jpg",
+    imagePath: "/images/cadiak1.jpg",
     title: "1st Place CADIAK CTF 2026",
-    liveDemoUrl: "/images/cadiak.jpg",
+    liveDemoUrl: "images/cadiak1.jpg",
   },
   {
     index: 2,
