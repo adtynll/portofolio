@@ -194,9 +194,9 @@ const certificateList: CardItem[] = [
   },
   {
     index: 2,
-    imagePath: "/images/nasa.jpg",
-    title: "NASA Hall Of Fame",
-    liveDemoUrl: "/images/nasa.jpg",
+    imagePath: "/images/nasa_lor.jpg",
+    title: "NASA Letter Of Recognition",
+    liveDemoUrl: "/images/nasa_lor.jpg",
   },
 ];
 
@@ -220,8 +220,8 @@ const writeupList: CardItem[] = [
     index: 2,
     imagePath: "/images/medium.png",
     title:
-      "How I Found an SQL Injection Vulnerability at Universitas Negeri Jakarta (UNJ)",
+      "How I Found IDOR, SQLi and XSS on NASA",
     liveDemoUrl:
-      "https://medium.com/@adtynll/how-i-found-an-sql-injection-vulnerability-at-universitas-negeri-jakarta-unj-f372203ffa71",
+      "https://medium.com/@adtynll/how-i-found-idor-sqli-and-xss-on-nasa-ac75c9bd555e",
   },
 ];
